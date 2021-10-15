@@ -8,6 +8,32 @@
 		}
 	},
 	"Forms": {
+		"T_MMDVHGOJVZOBT_922": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAWV_975": [
+					"AT36_CEDULAPW975",
+					"AT70_NOMBREMC975",
+					"AT95_EDADAHSG975"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMDVH_CEDULAYDS_86363",
+				"LBL_MMDVH_EDADWMKZA_91562",
+				"LBL_MMDVH_NOMBRESTK_75105"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

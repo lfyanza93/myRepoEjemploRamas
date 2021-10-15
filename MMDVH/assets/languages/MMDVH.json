@@ -1,10 +1,11 @@
 {
-    "MMDVH": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMDVH": {
+		"LBL": {
+			"LBL_MMDVH_CEDULAYDS_86363": "Cedula",
+			"LBL_MMDVH_EDADWMKZA_91562": "Edad",
+			"LBL_MMDVH_NOMBRESTK_75105": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }

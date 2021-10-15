@@ -3,5 +3,18 @@
 		"EN_PERSONAWV_975": {
 			"name": "Persona"
 		}
+	},
+	"SSMMT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMDVHGOJVZOBT_922": {
+				"name": "PersonaForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
